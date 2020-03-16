@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="BinaryHeap">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/BinaryHeap/HeapAndSortTester.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/BinaryHeap/org.hamcrest.core_1.3.0.v201303031735.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/BinaryHeap/junit.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
